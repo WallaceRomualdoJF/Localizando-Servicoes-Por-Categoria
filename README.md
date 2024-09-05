@@ -6,7 +6,6 @@ No Microsoft Azure para encontrar serviços organizados por categoria e identifi
 
 - [Documentação Oficial do Azure](https://docs.microsoft.com/azure)
 - [Suporte da Comunidade Microsoft](https://docs.microsoft.com/answers/)
-- [Cursos Gratuitos no Microsoft Learn](https://learn.microsoft.com/training/)
 
 ## Passo a Passo
 
